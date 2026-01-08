@@ -1,2 +1,1 @@
---[[ Protected by Axeus Hub ]]
-print("This script is currently being updated. Please join Discord for more details.")
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/2ee39d5a7677f36389fb9742354d23bd383f23fff1cfe40f02e87f66e605da67/download"))()
